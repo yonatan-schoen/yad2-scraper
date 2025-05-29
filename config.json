@@ -1,7 +1,8 @@
 {
-  "telegramApiToken": null,
-  "chatId": null,
-  "projects": [
+  "telegramApiToken": "
+7437382132:AAG70lcXCo_dT4PQmz6_R41TrmMdK6PCcUI",
+  "chatId": "228715683",
+  "projects": ""
     {
       "topic": "",
       "url": ""
