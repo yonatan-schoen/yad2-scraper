@@ -1,8 +1,7 @@
 {
-  "telegramApiToken": "
-7437382132:AAG70lcXCo_dT4PQmz6_R41TrmMdK6PCcUI",
+  "telegramApiToken": "7437382132:AAG70lcXCo_dT4PQmz6_R4gaskdgkasglasdlgaslUI",
   "chatId": "228715683",
-  "projects": "yad elihu"
+  "projects": [
     {
       "topic": "Tel Aviv - Yad Elihu",
       "url": "https://www.yad2.co.il/realestate/rent?maxPrice=7500&minRooms=3&maxRooms=4&multiNeighborhood=206%2C486"
@@ -10,5 +9,3 @@
   ]
 }
 
-      
-        
